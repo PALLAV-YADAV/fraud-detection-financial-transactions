@@ -26,6 +26,7 @@ This project focuses on:
 - Transaction-level financial dataset
 - ~6.3 million records
 - Highly imbalanced target variable (`isFraud`)
+- Link: https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0
 
 **Key Features:**
 - Transaction type
@@ -106,6 +107,7 @@ These indicators align with real-world fraud behavior.
 
 ## 📁 Repository Structure
 ├── Fraud_Detection_Accredian.ipynb
+
 ├── README.md
 
 
